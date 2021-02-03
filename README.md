@@ -15,6 +15,8 @@
 <br />
 <br />
 
----
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mas-diq&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
