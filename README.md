@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Shiddiq Fathullah 👋
+# Hi there, I'm Shiddiq 👋
 
 ## I'm a student college at Gunadarma University
 
@@ -14,7 +14,8 @@
 
 <br />
 <br />
+<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
