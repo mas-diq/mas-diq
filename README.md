@@ -1,21 +1,11 @@
-### Hi there, I'm Muhammad Shiddiq Fathullah - aka Shiddiq 👋
+### Hi there, I'm Muhammad Shiddiq Fathullah 👋
 
 ## I'm a student college at Gunadarma University
 
 <br />
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to make some prototypes in figma!!
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="mas-diq Spotify Playing" width="350" />](https://open.spotify.com/user/31e3chd76gqqqlprpn445flbkpye)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- ⚡ Fun fact: I love to make some prototypes in Figma
 
 <br />
 
@@ -28,8 +18,5 @@
 
 <br />
 
+<summary>:zap: GitHub Stats</summary>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-diq&show_icons=true&theme=radical)
-
-[twitter]: https://twitter.com/@msf31id
-[instagram]: https://instagram.com/m_shiddiq_f
-[linkedin]: https://linkedin.com/in/muhammad-shiddiq-f-5a1868111/
