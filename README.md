@@ -2,12 +2,8 @@
 
 ## I'm a student college at Gunadarma University
 
-<br />
-
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to make some prototypes in Figma
-
-<br />
 
 ### Languages and Tools:
 
@@ -17,6 +13,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br />
-
-<summary>:zap: GitHub Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-diq&show_icons=true&theme=radical)
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mas-diq&show_icons=true&hide_border=true&theme=radical" />
+</details>
