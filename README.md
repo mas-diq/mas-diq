@@ -34,3 +34,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<details>
+  <summary>:zap: Time Spending</summary>
+  <img align="center" alt="waka time spending" src="https://wakatime.com/share/@86626f2f-e07b-4475-93db-b0b28ab7b663/62dc3601-de85-4a89-8a47-490b846021f6.svg" />
+</details>
