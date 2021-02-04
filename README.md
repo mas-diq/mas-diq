@@ -8,7 +8,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="HTML5" width="32px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="HTML5" width="32px" src="https://simpleicons.org/icons/html5.svg" hex="E34F26" />
 <img align="left" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="C++" width="32px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="CSS3" width="32px" src="https://simpleicons.org/icons/css3.svg" />
