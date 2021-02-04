@@ -22,12 +22,12 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
+<details>
+  <summary>:zap: Language Used</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img align="center" alt="wakatime" width="100px" src="https://wakatime.com/share/@86626f2f-e07b-4475-93db-b0b28ab7b663/dc40b329-5e0f-4bbe-a29b-f77d8c721d0d.svg" />
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+</details>
