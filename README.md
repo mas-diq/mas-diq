@@ -31,3 +31,6 @@
   <summary>:zap: Language Used</summary>
   <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=10" />
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
