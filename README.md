@@ -7,10 +7,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="HTML5" width="32px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="C++" width="32px" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img align="left" alt="CSS3" width="32px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="Python" width="32px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="Git" width="32px" src="https://simpleicons.org/icons/git.svg" />
+<img align="left" alt="GitHub" width="32px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="Figma" width="32px" src="https://simpleicons.org/icons/figma.svg" />
+<img align="left" alt="Inkscape" width="32px" src="https://simpleicons.org/icons/inkscape.svg" />
 
 <br />
 <br />
