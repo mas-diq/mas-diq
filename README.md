@@ -9,7 +9,6 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve.jpg" height='32px'/></a>
 
 <br/>
-<br/>
 
 ### Languages and Tools:
 
@@ -21,7 +20,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
-<img align="left" alt="Manjaro" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
+<img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
 
 <br />
 <br />
