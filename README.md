@@ -1,6 +1,13 @@
 # Hi there, I'm Shiddiq 👋
 
-## I'm a student college at Gunadarma University
+I'm a student college at Gunadarma University. Majoring in System Information on SARMAG's program
+
+<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='18px'/></a>
+<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" height='18px'/></a>
+<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height='18px'/></a>
+
+
+<img src=""/>
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to make some prototypes in Figma
@@ -15,7 +22,7 @@
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
-<img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
+<img align="left" alt="Manjaro" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
 
 <br />
 <br />
