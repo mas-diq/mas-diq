@@ -27,4 +27,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@86626f2f-e07b-4475-93db-b0b28ab7b663/dc40b329-5e0f-4bbe-a29b-f77d8c721d0d.svg"></embed></figure>
 <!--END_SECTION:waka-->
