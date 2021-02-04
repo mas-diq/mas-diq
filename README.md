@@ -4,12 +4,16 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 
 ### Keep in touch:
 
-<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='48px' /></a>
-<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" height='48px' /></a>
-<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve.jpg" height='48px' /></a>
+<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='32px' /></a>
+<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height='32px' /></a>
+<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve.jpg" height='32px' /></a>
+
+<br />
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to make some prototypes in Figma
+
+<br />
 
 ### Languages and Tools:
 
