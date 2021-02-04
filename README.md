@@ -2,9 +2,9 @@
 
 I'm a student college at Gunadarma University. Majoring in System Information on SARMAG's program
 
-<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='18px'/></a>
-<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" height='18px'/></a>
-<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height='18px'/></a>
+<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='18px' /></a>
+<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" height='18px' /></a>
+<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height='18px' /></a>
 
 
 <img src=""/>
