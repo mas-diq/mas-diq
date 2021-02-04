@@ -1,13 +1,12 @@
 # Hi there, I'm Shiddiq 👋
 
-I'm a student college at Gunadarma University Majoring in Information System on SARMAG's program. I really like learning something new that I've never made before. such as cleaning data, creating graphics, makes some prototypes, develop portfolio websites and even creating 3D models in Blender. Honestly, I don't know my main goal yet ... 🤣🤣🤣. But I think it's not important, just let it flow and make it happen.
+I'm a student college at Gunadarma University Majoring in Information System on SARMAG's program. I really like learning something new that I've never made before. such as cleaning data, creating graphics, makes some prototypes, develop portfolio websites and even creating 3D models in Blender. Honestly, I don't know my main goal yet ... (LOL) 🤣🤣🤣. But I think it's not important for now, just let it flow and make it happen.
 
-<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='24px' /></a>
-<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" height='24px' /></a>
-<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve.jpg" height='24px' /></a>
+### Keep in touch:
 
-
-<img src=""/>
+<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='48px' /></a>
+<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" height='48px' /></a>
+<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve.jpg" height='48px' /></a>
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to make some prototypes in Figma
