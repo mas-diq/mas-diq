@@ -1,10 +1,10 @@
 # Hi there, I'm Shiddiq 👋
 
-I'm a student college at Gunadarma University. Majoring in System Information on SARMAG's program
+I'm a student college at Gunadarma University Majoring in Information System on SARMAG's program. I really like learning something new that I've never made before. such as cleaning data, creating graphics, makes some prototypes, develop portfolio websites and even creating 3D models in Blender. Honestly, I don't know my main goal yet ... 🤣🤣🤣. But I think it's not important, just let it flow and make it happen.
 
-<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='18px' /></a>
-<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" height='18px' /></a>
-<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height='18px' /></a>
+<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='24px' /></a>
+<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" height='24px' /></a>
+<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve.jpg" height='24px' /></a>
 
 
 <img src=""/>
@@ -22,7 +22,7 @@ I'm a student college at Gunadarma University. Majoring in System Information on
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
-<img align="left" alt="Manjaro" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
+<img align="left" alt="Manjaro" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
 
 <br />
 <br />
