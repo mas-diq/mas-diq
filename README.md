@@ -28,10 +28,10 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 
 <p align=left>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=gotham" />
+     <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=vue" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=10" />
+    <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=vue&layout=compact&langs_count=10" />
   </a>
 </p>
 
