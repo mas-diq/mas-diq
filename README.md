@@ -13,10 +13,12 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Intellij Ultimate IDE" width="32px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="Kotlin" width="32px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
