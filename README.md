@@ -19,9 +19,11 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Kotlin" width="32px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
+<img align="left" alt="Gradle" width="32px" src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" />
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
+<img align="left" alt="Git Kraken" width="32px" src="https://img.icons8.com/windows/32/000000/gitkraken.png" />
 <img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
 
 <br />
