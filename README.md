@@ -3,10 +3,10 @@
 I'm a student college at Gunadarma University Majoring in Information System on SARMAG's program. I really like learning something new that I've never made before. such as cleaning data, creating graphics, makes some prototypes, develop portfolio websites and even creating 3D models in Blender. Honestly, I don't know my main goal yet ... (LOL) 🤣🤣🤣. But I think it's not important for now, just let it flow and make it happen.
 
 ### Keep in touch:
-
-<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img align='left' alt="linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='32px'/></a>
-<a href='https://www.instagram.com/m_shiddiq_f/'><img align='left' alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height='32px'/></a>
-<a href='https://www.hackerrank.com/msf31/'><img align='left' alt="Hackerrank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve.jpg" height='32px'/></a>
+<a href='https://wa.link/1hen7o'><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://www.instagram.com/m_shiddiq_f/'><img alt="Instagram" src="https://img.shields.io/badge/m_shiddiq_f%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href='https://www.hackerrank.com/msf31/'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
 <br/>
 
