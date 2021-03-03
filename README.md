@@ -11,6 +11,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 ### ⚔️ Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Intellij Ultimate IDE" width="32px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+<img align="left" alt="Android Studio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png" />
 <img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
@@ -20,7 +21,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
-<img align="left" alt="Git Kraken" width="32px" src="https://www.gitkraken.com/img/keif-gallery/gallery-keif.jpg" />
+<img align="left" alt="Git Kraken" width="32px" src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" />
 <img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
 <br />
 
