@@ -8,10 +8,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <a href='https://www.instagram.com/m_shiddiq_f/'><img alt="Instagram" src="https://img.shields.io/badge/m_shiddiq_f%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href='https://www.hackerrank.com/msf31/'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-<br/>
-
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Intellij Ultimate IDE" width="32px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png" />
@@ -30,6 +27,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <br />
 <br />
 
+### My Github Stat
 <p align=left>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
      <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=gotham" />
@@ -38,6 +36,8 @@ I'm a student college at Gunadarma University Majoring in Information System on 
     <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=8" />
   </a>
 </p>
+
+### My Wakatime Stat
 <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/wakatime?username=msf31&theme=gotham" />
 
 <!--START_SECTION:waka-->
