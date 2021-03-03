@@ -22,9 +22,6 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
 <img align="left" alt="Git Kraken" width="32px" src="https://www.gitkraken.com/img/keif-gallery/gallery-keif.jpg" />
 <img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
-
-<br />
-<br />
 <br />
 
 ### My Github Stat
