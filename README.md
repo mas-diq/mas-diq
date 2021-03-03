@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 # Hi there, I'm Shiddiq <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> 
 
 I'm a student college at Gunadarma University Majoring in Information System on SARMAG's program. I really like learning something new that I've never made before. such as cleaning data, creating graphics, makes some prototypes, develop portfolio websites and even creating 3D models in Blender. Honestly, I don't know my main goal yet ... (LOL) 🤣🤣🤣. But I think it's not important for now, just let it flow and make it happen.
@@ -40,5 +41,4 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 ### 🛠️ My Wakatime Activity
 <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/wakatime?username=msf31&theme=gotham" />
 
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
