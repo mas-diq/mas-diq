@@ -7,6 +7,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://www.instagram.com/m_shiddiq_f/'><img alt="Instagram" src="https://img.shields.io/badge/m_shiddiq_f%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href='https://www.hackerrank.com/msf31/'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<br />
 
 ### ⚔️ Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
@@ -23,6 +24,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
 <img align="left" alt="Git Kraken" width="32px" src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" />
 <img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
+<br />
 <br />
 
 ### 🔥 My Github Status
