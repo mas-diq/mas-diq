@@ -23,7 +23,7 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
-<img align="left" alt="Git Kraken" width="32px" src="https://img.icons8.com/windows/32/000000/gitkraken.png" />
+<img align="left" alt="Git Kraken" width="32px" src="https://www.gitkraken.com/img/keif-gallery/gallery-keif.jpg" />
 <img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" />
 
 <br />
@@ -32,12 +32,13 @@ I'm a student college at Gunadarma University Majoring in Information System on 
 
 <p align=left>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=vue" />
+     <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=gotham" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=vue&layout=compact&langs_count=8" />
+    <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=8" />
   </a>
 </p>
+<img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/wakatime?username=msf31&theme=gotham" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
