@@ -2,7 +2,7 @@
 # Hi there, I'm Shiddiq <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> 
 
 I'm a student college at Gunadarma University Majoring in Information System on SARMAG's program who's still trying to learn 
- <a href="https://dribbble.com/shots/15951026-AKIA-Maternal-and-Child-Health-App"><strong>UI UX</strong></a>, Mobile-based Programming and Website Programming. My repositories mostly certified by open source MIT License, so I hope it helps you in your projects.
+ <a href="https://dribbble.com/shots/15957620-AKIA-Maternal-and-Child-Health-Apps"><strong>UI UX</strong></a>, Mobile-based Programming and Website Programming. My repositories mostly certified by open source MIT License, so I hope it helps you in your projects.
 
 ### ⚔️ Languages and Tools:
 <img align="left" alt="Android Studio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png" />
