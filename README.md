@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 # Hi there, I'm Shiddiq <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> 
 
 I am a master's student at Gunadarma University majoring in Management Information System on SARMAG's program who's still trying to learn 
@@ -46,4 +45,12 @@ I am a master's student at Gunadarma University majoring in Management Informati
 <a href='https://www.instagram.com/m_shiddiq_f/'><img alt="Instagram" src="https://img.shields.io/badge/m_shiddiq_f%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href='https://www.hackerrank.com/msf31/'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <br />
+</details>
+
+<details>
+  <summary>✍ Wakatime Stat</summary>
+<p align=left>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
 </details>
