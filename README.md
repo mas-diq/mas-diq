@@ -5,7 +5,6 @@ I am a master's student at Gunadarma University majoring in Management Informati
  <a href="https://dribbble.com/shots/15957620-AKIA-Maternal-and-Child-Health-Apps"><strong>UI UX</strong></a>, Mobile-based Programming and Backend Programming. My repositories mostly certified by open source MIT License, so I hope it helps you in your projects.
 
 ### ⚔️ Languages and Tools:
-<img align="left" alt="Manjaro" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Manjaro-logo.png" />
 <img align="left" alt="Android Studio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png" />
 <img align="left" alt="Kotlin" width="32px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png" />
@@ -23,16 +22,22 @@ I am a master's student at Gunadarma University majoring in Management Informati
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
      <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=gotham" />
   </a>
+</p>
+</details>
+
+<details>
+  <summary>✍ Programming Languages</summary>
+<p align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=8" />
   </a>
 </p>
 </details>
 
-<details>
+<!-- <details>
   <summary>🛠️ My Wakatime Activity</summary>
 <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/wakatime?username=msf31&theme=gotham" />
-</details>
+</details> -->
 
 <details>
   <summary>🤝 Keep in touch </summary>
