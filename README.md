@@ -12,45 +12,38 @@ I am a master's student at Gunadarma University majoring in Management Informati
 <img align="left" alt="Ruby" width="32px" src="https://img.icons8.com/color/344/ruby-programming-language.png" />
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/344/git.png" />
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 <details>
-  <summary>🔥 My Github Status</summary>
-<p align=left>
+  <summary>🔥 Github Status</summary>
+  <br/>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=gotham" />
+     <img align="center" alt="mas-diq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mas-diq&count_private=true&show_icons=true&theme=nightowl" />
   </a>
-</p>
 </details>
+  <br/>
 
 <details>
   <summary>✍ Programming Languages</summary>
-<p align=left>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=gotham&layout=compact&langs_count=8" />
-  </a>
-</p>
+  <br/>
+  <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&theme=nightowl&layout=compact&langs_count=8" />
 </details>
+  <br/>
 
-<!-- <details>
-  <summary>🛠️ My Wakatime Activity</summary>
-<img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/wakatime?username=msf31&theme=gotham" />
-</details> -->
+<details>
+  <summary>🛠️ All Time Activity</summary>
+  <br/>
+  <img align="center" alt="mas-diq's Language Used" src="https://github-readme-stats.vercel.app/api/wakatime?username=msf31&theme=nightowl&layout=compact" />
+</details>
+  <br/>
 
 <details>
   <summary>🤝 Keep in touch </summary>
+  <br/>
 <a href='https://wa.link/1hen7o'><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://www.instagram.com/m_shiddiq_f/'><img alt="Instagram" src="https://img.shields.io/badge/m_shiddiq_f%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href='https://www.hackerrank.com/msf31/'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<br />
-</details>
-
-<details>
-  <summary>✍ Wakatime Stat</summary>
-<p align=left>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</p>
 </details>
