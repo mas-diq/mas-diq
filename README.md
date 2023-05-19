@@ -42,7 +42,6 @@ I am a master's student at Gunadarma University majoring in Management Informati
 <details>
   <summary>🤝 Keep in touch </summary>
   <br/>
-<a href='https://wa.link/1hen7o'><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href='https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://www.instagram.com/m_shiddiq_f/'><img alt="Instagram" src="https://img.shields.io/badge/m_shiddiq_f%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href='https://www.hackerrank.com/msf31/'><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
